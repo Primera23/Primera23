@@ -1,143 +1,58 @@
-## Hola mi nombre es Orlando Primera 👋
+# 👨‍💻 Orlando Primera
 
-🖥️ Lenguajes de Programación
-Frontend
-HTML
+¡Hola! Soy **Orlando Primera**, desarrollador **Full Stack** apasionado por construir soluciones eficientes y modernas para la web. Me especializo en el desarrollo con **Node.js**, **Express**, **HTML**, **CSS** y el framework de estilos **Tailwind CSS**.
 
+---
 
-CSS
+## 🛠️ Tecnologías que uso
 
+### 🖥️ Frontend
+- **HTML5**
+- **CSS3** (con **Tailwind CSS** para estilos rápidos y responsivos)
+- **JavaScript**
 
-JavaScript
+### 🔧 Backend
+- **Node.js**
+- **Express.js**
 
+### 🗄️ Bases de datos
+- **MongoDB**
+- **MySQL** (dependiendo del proyecto)
 
-TypeScript
+---
 
+## 📁 Proyectos Destacados
 
-Backend
-JavaScript (Node.js)
+### 🔹 [Nombre del Proyecto 1](#)
+> Breve descripción del proyecto. Tecnologías usadas, retos resueltos o resultados obtenidos.
 
+### 🔹 [Nombre del Proyecto 2](#)
+> Otro proyecto con tecnologías similares. Puedes agregar capturas o enlaces en GitHub Pages si está desplegado.
 
-Python
+---
 
+## 🚀 ¿Qué puedo hacer por ti?
 
-Java
+- Desarrollar APIs REST eficientes y seguras con Node.js y Express.
+- Crear interfaces limpias, modernas y adaptativas con HTML, CSS y Tailwind.
+- Integrar bases de datos relacionales o NoSQL según los requerimientos del proyecto.
+- Colaborar en equipos usando Git y GitHub, siguiendo buenas prácticas de desarrollo.
 
+---
 
-C#
+## 📫 Contáctame
 
+- ✉️ **Correo:** orlandoprimera@example.com  
+- 💼 **LinkedIn:** [linkedin.com/in/orlandoprimera](https://linkedin.com/in/orlandoprimera)  
+- 🌐 **Portafolio web (si tienes uno):** [orlandoprimera.dev](https://orlandoprimera.dev)
 
-PHP
+---
 
+> “La mejor forma de predecir el futuro es creándolo.” – Peter Drucker
 
-Go
+---
 
-
-Ruby
-
-
-Rust
-
-
-
-📚 Frameworks y Bibliotecas
-Frontend
-React (JavaScript/TypeScript)
-
-
-Vue.js
-
-
-Angular
-
-
-Svelte
-
-
-Next.js (SSR y React)
-
-
-Tailwind CSS (estilos)
-
-
-Bootstrap
-
-
-jQuery (menos usado hoy en día)
-
-
-Backend
-Express.js (Node.js)
-
-
-NestJS (Node.js + TypeScript)
-
-
-Django (Python)
-
-
-Flask (Python)
-
-
-Spring Boot (Java)
-
-
-Laravel (PHP)
-
-
-Ruby on Rails (Ruby)
-
-
-ASP.NET (C#)
-
-
-Fiber (Go)
-
-
-FastAPI (Python)
-
-
-
-💾 Bases de Datos
-Relacionales (SQL)
-PostgreSQL
-
-
-MySQL
-
-
-MariaDB
-
-
-SQLite
-
-
-Microsoft SQL Server
-
-
-Oracle DB
-
-
-No Relacionales (NoSQL)
-MongoDB
-
-
-Firebase Realtime Database
-
-
-CouchDB
-
-
-Cassandra
-
-
-Redis (clave-valor, usado también como caché)
-
-
-DynamoDB (Amazon)
-
-
-Neo4j (base de datos de grafos)
+⭐ ¡Gracias por visitar mi perfil!
 
 
 
