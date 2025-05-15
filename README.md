@@ -7,8 +7,10 @@
 ## 🛠️ Tecnologías que uso
 
 ### 🖥️ Frontend
-- **HTML5**
-- **CSS3** (con **Tailwind CSS** para estilos rápidos y responsivos)
+- **HTML5** ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+
+- **CSS3**![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+ (con **Tailwind CSS**![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white) para estilos rápidos y responsivos)
 - **JavaScript**
 
 ### 🔧 Backend
