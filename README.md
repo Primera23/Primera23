@@ -1,76 +1,66 @@
 # 👨‍💻 Orlando Primera
 
-¡Hola! Soy **Orlando Primera**, desarrollador **Full Stack** apasionado por construir soluciones eficientes y modernas para la web. Me especializo en el desarrollo con **Node.js**, **Express**, **HTML**, **CSS** y el framework de estilos **Tailwind CSS**.
+¡Hola! Soy **Orlando Primera**, desarrollador enfocado en backend, apasionado por construir soluciones eficientes y modernas para la web. Trabajo principalmente con **Python y Django**, y también tengo experiencia en desarrollo con **Node.js**, **Express**, **HTML**, **CSS** y **Tailwind CSS**.
 
 ---
 
 ## 🛠️ Tecnologías que uso
 
 ### 🖥️ Frontend
--  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-
+- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 - ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
- (con ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white) para estilos rápidos y responsivos)
+- ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ### 🔧 Backend
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+- ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-
-
 - ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 
 ### 🗄️ Bases de datos
-- **MongoDB**
-- **MySQL** (dependiendo del proyecto)
+- MySQL  
+- MongoDB  
 
 ---
 
 ## 📁 Proyectos Destacados
 
-### 🔹 [Nombre del Proyecto 1](#)
-> Breve descripción del proyecto. Tecnologías usadas, retos resueltos o resultados obtenidos.
-
-### 🔹 [Nombre del Proyecto 2](#)
-> Otro proyecto con tecnologías similares. Puedes agregar capturas o enlaces en GitHub Pages si está desplegado.
-
----
-
-## 🚀 ¿Qué puedo hacer por ti?
-
-- Desarrollar APIs REST eficientes y seguras con Node.js y Express.
-- Crear interfaces limpias, modernas y adaptativas con HTML, CSS y Tailwind.
-- Integrar bases de datos relacionales o NoSQL según los requerimientos del proyecto.
-- Colaborar en equipos usando Git y GitHub, siguiendo buenas prácticas de desarrollo.
+### 🔹 Sistema de votaciones (Django)
+- Backend desarrollado con Python y Django
+- Autenticación basada en sesiones
+- Gestión de usuarios y lógica de votación
+- Integración con MySQL mediante ORM
+- Procesamiento de datos desde archivos Excel  
+🔒 Repositorio privado (disponible bajo solicitud)
 
 ---
 
-## 📫 Contáctame
-
-- ✉️ **Correo:** orlandoprimera@example.com  
-- 💼 **LinkedIn:** [linkedin.com/in/orlandoprimera](https://linkedin.com/in/orlandoprimera)  
-- 🌐 **Portafolio web (si tienes uno):** [orlandoprimera.dev](https://orlandoprimera.dev)
+### 🔹 Tienda online "Valeria Guerra" (Node.js)
+- API backend desarrollada con Node.js y Express
+- Gestión de productos, usuarios y pedidos
+- Integración de pasarela de pago con Mercado Pago (modo sandbox)
+- Arquitectura modular y manejo de rutas  
+🔗 https://github.com/Primera23/Valeria_Guerra
 
 ---
 
-> “La mejor forma de predecir el futuro es creándolo.” – Peter Drucker
+## 🚀 ¿Qué puedo hacer?
+
+- Desarrollar APIs REST con Python (Django) y Node.js
+- Implementar lógica de negocio y gestión de datos
+- Diseñar y estructurar bases de datos relacionales y NoSQL
+- Integrar pasarelas de pago y servicios externos
+- Trabajar en equipo usando Git y metodologías ágiles (Scrum)
+
+---
+
+## 📫 Contacto
+
+- ✉️ **Correo:** orlandorojas2312@gmail.com  
+- 💼 **LinkedIn:** (agrega tu link)  
+- 🌐 **Portafolio:** (opcional)
 
 ---
 
 ⭐ ¡Gracias por visitar mi perfil!
-
-
-
-<!--
-**Primera23/Primera23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
