@@ -58,9 +58,6 @@
 ## 📫 Contacto
 
 - ✉️ **Correo:** orlandorojas2312@gmail.com  
-- 💼 **LinkedIn:** (agrega tu link)  
-- 🌐 **Portafolio:** (opcional)
-
 ---
 
 ⭐ ¡Gracias por visitar mi perfil!
